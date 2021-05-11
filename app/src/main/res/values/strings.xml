@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">contacts-list</string>
+    <string name="iv_content_description">Image Profile</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="colse_drawer">fechar</string>
+</resources>
